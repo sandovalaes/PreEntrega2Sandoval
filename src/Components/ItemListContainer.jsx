@@ -18,7 +18,7 @@ function ItemListContainer() {
                         setProductos(MisProductos);
                     }
                 )
-    }, [categoryIgitd])
+    }, [categoryId])
 
     return  <section className="section">
                 <div className="container">
